@@ -1,0 +1,48 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 660
+CELL_SIZE = 30
+GRID_COLS = 12
+GRID_ROWS = 20
+GRID_OFFSET_X = (SCREEN_WIDTH - GRID_COLS * CELL_SIZE) // 2
+GRID_OFFSET_Y = 60
+HUD_HEIGHT = 60
+FPS = 30
+
+PLAYER_START_COL = GRID_COLS // 2
+PLAYER_START_ROW = 0
+PLAYER_MAX_HP = 5
+PLAYER_START_HP = 3
+PLAYER_START_ATTACK = 1
+PLAYER_INVINCIBLE_TIME = 0.5
+INVENTORY_SIZE = 2
+
+ENEMY_MOVE_INTERVAL = 0.8
+ENEMY_DETECT_RANGE = 5
+NEST_SPAWN_INTERVAL = 15.0
+COMBO_BONUS = {2: 2, 4: 3, 8: 5}
+
+SOIL_COLORS = {
+    "surface": {"undug": (100, 160, 50), "dug": (70, 120, 30)},
+    "topsoil": {"undug": (160, 130, 80), "dug": (100, 80, 50)},
+    "deep_soil": {"undug": (140, 110, 60), "dug": (80, 60, 35)},
+    "stone": {"undug": (130, 120, 110), "dug": (90, 80, 70)},
+    "bedrock": {"undug": (100, 95, 90), "dug": (60, 55, 50)},
+}
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (220, 50, 50)
+GREEN = (50, 200, 50)
+YELLOW = (255, 230, 50)
+ORANGE = (255, 150, 50)
+BLUE = (50, 100, 220)
+PURPLE = (150, 50, 220)
+GOLD = (255, 200, 50)
+SILVER = (200, 200, 210)
+BROWN = (120, 70, 30)
+PINK = (255, 180, 180)
+CYAN = (50, 200, 200)
+GRAY = (150, 150, 150)
+DARK_RED = (180, 30, 30)
+TEAL = (30, 180, 180)
+LIME = (150, 255, 50)

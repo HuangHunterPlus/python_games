@@ -1,0 +1,322 @@
+<happy> I am so happy today!
+<happy> This is wonderful!
+<happy> Yay what a great day!
+<happy> I love this so much!
+<happy> Everything is perfect!
+<happy> So much joy right now!
+<happy> Best day ever!
+<happy> I feel amazing!
+<happy> What a beautiful day!
+<happy> So happy to see you!
+<happy> My heart is full of joy!
+<happy> I am bursting with happiness!
+<happy> Such a lovely time!
+<happy> This is the best feeling!
+<happy> I am delighted!
+<happy> So much fun today!
+<happy> Happiness is everywhere!
+<happy> I feel so good!
+<happy> What a wonderful surprise!
+<happy> Life is beautiful!
+<happy> I am over the moon!
+<happy> Today is fantastic!
+<happy> So glad to be here!
+<happy> Everything makes me smile!
+<happy> Pure happiness!
+<happy> I am thrilled!
+<happy> What a joyful moment!
+<happy> So excited about everything!
+<happy> Feeling wonderful today!
+<happy> Joy joy joy!
+<happy> Happy happy happy!
+<happy> Such a great time!
+<happy> I love my life!
+<happy> So much to celebrate!
+<happy> Radiating happiness everywhere!
+<happy> Today could not be better!
+<happy> Absolutely fantastic!
+<happy> I am beaming with joy!
+<happy> What a perfect moment!
+<happy> So full of positive energy!
+<sad> I feel so lonely today.
+<sad> Nothing seems to go right.
+<sad> I am a bit sad right now.
+<sad> Why is everything so hard?
+<sad> I miss the good times.
+<sad> Feeling a little down today.
+<sad> The world feels so grey.
+<sad> I need a hug please.
+<sad> Everything feels so heavy.
+<sad> Why is this happening to me?
+<sad> I just want to sleep.
+<sad> Nothing makes me happy anymore.
+<sad> So tired of being sad.
+<sad> I wish things were different.
+<sad> My heart feels so heavy.
+<sad> I feel like crying.
+<sad> Today is not a good day.
+<sad> Everything makes me feel worse.
+<sad> I need some comfort now.
+<sad> Why does this keep happening?
+<sad> I feel so alone today.
+<sad> The sadness is overwhelming.
+<sad> I could use some company.
+<sad> Nothing feels right today.
+<sad> I am feeling quite blue.
+<sad> Today is a sad day.
+<sad> I wish someone would cheer me up.
+<sad> So disappointed about everything.
+<sad> I want to be happy again.
+<sad> Feeling lost and confused.
+<sad> The world feels empty today.
+<sad> I am not feeling well.
+<sad> Everything seems pointless right now.
+<sad> I need a friend today.
+<sad> So much sadness in my heart.
+<sad> I miss being happy.
+<sad> Today feels very long.
+<sad> I am feeling pretty low.
+<sad> Nothing can cheer me up.
+<sad> Why is everything so difficult?
+<hungry> I am so hungry right now!
+<hungry> When is it time to eat?
+<hungry> My tummy is rumbling!
+<hungry> I want some food please!
+<hungry> Is there anything to eat?
+<hungry> I need a snack now!
+<hungry> Feed me please I am hungry!
+<hungry> So hungry I could eat anything!
+<hungry> What is for dinner today?
+<hungry> I am starving over here!
+<hungry> Can I have some treats?
+<hungry> Food smells so good!
+<hungry> I want to eat something yummy!
+<hungry> My stomach is making noises!
+<hungry> I need some nourishment please!
+<hungry> Is it dinner time yet?
+<hungry> I am craving something delicious!
+<hungry> When can I eat again?
+<hungry> So hungry I am dizzy!
+<hungry> I want a big meal!
+<hungry> Can we have a feast?
+<hungry> I need energy from food!
+<hungry> Food food food!
+<hungry> I am dreaming of food!
+<hungry> Please give me something to eat!
+<hungry> My belly is empty!
+<hungry> I could eat a horse!
+<hungry> So ready for a meal!
+<hungry> I want tasty food now!
+<hungry> Eating sounds perfect right now!
+<hungry> I need to eat soon!
+<hungry> The hunger is real today!
+<hungry> I want to eat and eat!
+<hungry> Food makes everything better!
+<hungry> I am looking for snacks!
+<hungry> Nothing beats a good meal!
+<hungry> I am hungry for good food!
+<hungry> Can we eat together please?
+<hungry> I need some food energy!
+<hungry> Everything looks like food right now!
+<hungry> Time for a delicious meal!
+<sleepy> I am so sleepy right now.
+<sleepy> Time for a nice nap.
+<sleepy> I feel so tired today.
+<sleepy> My eyes are so heavy.
+<sleepy> I want to go to sleep.
+<sleepy> Yawning so much right now.
+<sleepy> Sleep sounds so good.
+<sleepy> I need to rest now.
+<sleepy> So drowsy and comfortable.
+<sleepy> Just let me sleep please.
+<sleepy> I am drifting off to sleep.
+<sleepy> So cozy and warm now.
+<sleepy> Time to close my eyes.
+<sleepy> Feeling very drowsy today.
+<sleepy> I could sleep for hours.
+<sleepy> Goodnight I am so tired.
+<sleepy> My bed is calling me.
+<sleepy> So sleepy I can barely move.
+<sleepy> I need a long rest.
+<sleepy> Sleep is all I want.
+<sleepy> Yawning again I am so tired.
+<sleepy> Time for a long nap.
+<sleepy> I am ready for bed.
+<sleepy> So exhausted I need sleep.
+<sleepy> Comfortable and sleepy now.
+<sleepy> I am falling asleep slowly.
+<sleepy> Dreaming about my warm bed.
+<sleepy> So tired after a long day.
+<sleepy> I want to curl up.
+<sleepy> Sleep time is the best time.
+<sleepy> Zzz I am so tired.
+<sleepy> I need my beauty sleep.
+<sleepy> So sleepy and content now.
+<sleepy> Yawn I am exhausted.
+<sleepy> Time to drift away.
+<sleepy> I am so ready for sleep.
+<sleepy> Can I go to sleep now?
+<sleepy> My pillow is waiting for me.
+<sleepy> I feel so relaxed and sleepy.
+<sleepy> Sweet dreams await me.
+<sleepy> So tired I can think straight.
+<playful> I want to play right now!
+<playful> Let us have some fun!
+<playful> Play with me please!
+<playful> I am feeling so playful today!
+<playful> Chase me chase me!
+<playful> Let us play a game!
+<playful> I want to run around!
+<playful> So much energy to burn!
+<playful> Play time is the best time!
+<playful> I am bouncing off the walls!
+<playful> Let us do something fun!
+<playful> I want to explore and play!
+<playful> So much to do so much fun!
+<playful> Ready to play all day!
+<playful> Let us go on an adventure!
+<playful> I am feeling very energetic today!
+<playful> Play with me play with me!
+<playful> I want to chase things!
+<playful> Let us run and jump!
+<playful> So excited to play now!
+<playful> Fun fun fun all day!
+<playful> I am in a playful mood!
+<playful> Let us find something to do!
+<playful> I want to play fetch!
+<playful> So much energy inside me!
+<playful> Let us dance and play!
+<playful> I feel so alive today!
+<playful> Play time is my favorite time!
+<playful> I want to be silly and play!
+<playful> Let us have a fun time!
+<playful> I am so excited to play!
+<playful> So many things to explore!
+<playful> Let us play together forever!
+<playful> I feel so bouncy today!
+<playful> Let us play a fun game!
+<playful> I want to jump around!
+<playful> So playful and happy today!
+<playful> Let us have some fun together!
+<playful> I am full of playful energy!
+<playful> Play time now please!
+<curious> I wonder what that is!
+<curious> What are you doing over there?
+<curious> That looks very interesting!
+<curious> I want to investigate everything!
+<curious> What is that strange thing?
+<curious> Tell me about this world!
+<curious> I am so curious about everything!
+<curious> What is happening around here?
+<curious> That seems fascinating to me!
+<curious> Let me explore a little more!
+<curious> I want to know everything!
+<curious> What is that sound I hear?
+<curious> So many things to discover!
+<curious> I am very curious today!
+<curious> What is over there let me see!
+<curious> I want to learn new things!
+<curious> That is so interesting!
+<curious> Let me check that out!
+<curious> What are you holding there?
+<curious> I need to investigate this!
+<curious> So many mysteries in the world!
+<curious> I am curious about everything today!
+<curious> What does this thing do?
+<curious> Let me explore the whole world!
+<curious> So many fascinating things to see!
+<curious> I want to discover something new!
+<curious> What is that interesting object?
+<curious> I am so curious I must know!
+<curious> Let me take a closer look!
+<curious> The world is full of wonders!
+<curious> I want to understand everything!
+<curious> So many questions in my mind!
+<curious> I am exploring and learning today!
+<curious> What is going on over here?
+<curious> I see something very interesting!
+<curious> Let me inspect that carefully!
+<curious> I am curious about the whole world!
+<curious> So much to learn and see!
+<curious> Every day is a new adventure!
+<curious> I want to find out more!
+<grateful> Thank you for taking care of me.
+<grateful> I am so grateful for everything.
+<grateful> You are the best friend ever!
+<grateful> Thank you for all your love.
+<grateful> I appreciate everything you do.
+<grateful> You make my life wonderful!
+<grateful> Thanks for being so kind to me.
+<grateful> I am lucky to have you.
+<grateful> You are so good to me.
+<grateful> Thank you for being my friend.
+<grateful> I am thankful for every moment.
+<grateful> Thanks for the love and care.
+<grateful> You make the world better!
+<grateful> I appreciate you so much!
+<grateful> Thank you for everything you give!
+<grateful> You are truly wonderful and kind.
+<grateful> Thanks for making me so happy!
+<grateful> I am so grateful for your company.
+<grateful> You are the best caretaker ever!
+<grateful> Thank you for all the good times!
+<grateful> I feel so blessed to have you.
+<grateful> Your kindness means the world to me.
+<grateful> Thanks for always being there for me.
+<grateful> I am grateful for every day together.
+<grateful> You fill my life with happiness!
+<grateful> Thank you for the wonderful memories.
+<grateful> I am so thankful for your friendship.
+<grateful> You are a true gift in my life.
+<grateful> Thanks for all the cuddles and love.
+<grateful> I cherish every moment with you!
+<grateful> You are so generous and caring.
+<grateful> My heart is full of gratitude.
+<grateful> Thank you for being so wonderful!
+<grateful> I appreciate your kindness every day.
+<grateful> Thanks for everything my dear friend.
+<grateful> You make my life so much better!
+<grateful> I am so thankful to have you.
+<grateful> Your love makes me feel special!
+<grateful> Thank you for all the joy you bring!
+<grateful> I am eternally grateful for you!
+<loving> I love you so much!
+<loving> You are my favorite person!
+<loving> I give you all my love!
+<loving> My heart belongs to you!
+<loving> You are so special to me!
+<loving> I love spending time with you!
+<loving> You mean the world to me!
+<loving> I love you more every day!
+<loving> You are my sunshine!
+<loving> All I need is your love!
+<loving> I want to be with you always!
+<loving> You are the best thing in my life!
+<loving> My love for you grows stronger!
+<loving> I adore you with all my heart!
+<loving> You are so precious and dear!
+<loving> I love cuddling with you!
+<loving> You are my everything my love!
+<loving> I care about you so deeply!
+<loving> My heart is full of love for you!
+<loving> You are the sweetest person I know!
+<loving> I love you today and always!
+<loving> You are always in my heart!
+<loving> I send you love and hugs!
+<loving> You are so beautiful inside and out!
+<loving> I love your company so much!
+<loving> You fill my heart with love!
+<loving> I cherish every moment together!
+<loving> You are my beloved friend forever!
+<loving> My heart beats with love for you!
+<loving> You are so warm and loving!
+<loving> I want to give you all my love!
+<loving> You are the most wonderful person!
+<loving> I love you more each passing day!
+<loving> You are the light of my life!
+<loving> I am so lucky to love you!
+<loving> You make my heart sing!
+<loving> All my love is for you!
+<loving> You are surrounded by my love!
+<loving> I love you to the moon and back!
+<loving> You are the best part of my day!

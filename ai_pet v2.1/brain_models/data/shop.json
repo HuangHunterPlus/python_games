@@ -1,0 +1,8 @@
+{
+  "coins": 262,
+  "owned": [
+    "cat",
+    "dog"
+  ],
+  "current": "cat"
+}

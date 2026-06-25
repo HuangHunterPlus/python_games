@@ -1,0 +1,82 @@
+{
+  "last_pet": {
+    "time": 1782402221.795703,
+    "value": null,
+    "count": 41
+  },
+  "last_petted": {
+    "time": 1782402221.795703,
+    "value": "被抚摸",
+    "count": 41
+  },
+  "last_feed": {
+    "time": 1782380584.5769901,
+    "value": null,
+    "count": 17
+  },
+  "last_food": {
+    "time": 1782380584.577026,
+    "value": "小鱼干",
+    "count": 17
+  },
+  "last_gift": {
+    "time": 1782401183.4092572,
+    "value": null,
+    "count": 8
+  },
+  "last_gift_item": {
+    "time": 1782401183.4092572,
+    "value": "蝴蝶结",
+    "count": 7
+  },
+  "last_greet": {
+    "time": 1782401230.8877773,
+    "value": null,
+    "count": 44
+  },
+  "last_play": {
+    "time": 1782402213.1506245,
+    "value": "玩耍",
+    "count": 54
+  },
+  "last_dance": {
+    "time": 1782380882.5235164,
+    "value": "跳舞",
+    "count": 4
+  },
+  "last_heal": {
+    "time": 1782380754.2522118,
+    "value": "治疗",
+    "count": 4
+  },
+  "last_teach": {
+    "time": 1782380978.1129608,
+    "value": null,
+    "count": 2
+  },
+  "last_trick": {
+    "time": 1782380978.1130056,
+    "value": "打滚",
+    "count": 2
+  },
+  "last_story": {
+    "time": 1782380913.4039292,
+    "value": "三只小猫",
+    "count": 6
+  },
+  "last_bathe": {
+    "time": 1782380717.4362054,
+    "value": "洗澡",
+    "count": 4
+  },
+  "last_scold": {
+    "time": 1782375491.2523963,
+    "value": null,
+    "count": 1
+  },
+  "last_praise": {
+    "time": 1782380505.7247524,
+    "value": "被称赞",
+    "count": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "dims": {
+    "affectionate": 0.7000000000000001,
+    "energetic": 0.6000000000000001,
+    "curious": 0.8,
+    "stubborn": 0.32,
+    "clingy": 0.5000000000000001
+  },
+  "daily_deltas": {
+    "affectionate": 0.1,
+    "energetic": 0.1,
+    "curious": 0.09999999999999999,
+    "stubborn": 0.02,
+    "clingy": 0.09999999999999999
+  },
+  "last_date": "2026-06-25"
+}

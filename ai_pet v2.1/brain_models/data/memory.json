@@ -1,0 +1,62 @@
+{
+  "last_greet": {
+    "time": 1782360802.3908408,
+    "value": null,
+    "count": 28
+  },
+  "last_pet": {
+    "time": 1782360851.6833324,
+    "value": null,
+    "count": 22
+  },
+  "last_petted": {
+    "time": 1782360851.6833587,
+    "value": "被抚摸",
+    "count": 22
+  },
+  "last_feed": {
+    "time": 1782358952.5680137,
+    "value": null,
+    "count": 7
+  },
+  "last_food": {
+    "time": 1782358952.5680547,
+    "value": "布丁",
+    "count": 7
+  },
+  "last_play": {
+    "time": 1782360047.270423,
+    "value": "玩耍",
+    "count": 50
+  },
+  "last_heal": {
+    "time": 1782296505.278704,
+    "value": "治疗",
+    "count": 6
+  },
+  "last_status": {
+    "time": 1782295222.9022982,
+    "value": null,
+    "count": 1
+  },
+  "last_bathe": {
+    "time": 1782358931.5437,
+    "value": "洗澡",
+    "count": 4
+  },
+  "last_dance": {
+    "time": 1782358946.1768787,
+    "value": "跳舞",
+    "count": 2
+  },
+  "last_story": {
+    "time": 1782358964.0980191,
+    "value": "小猫钓鱼",
+    "count": 2
+  },
+  "last_scold": {
+    "time": 1782358972.6637669,
+    "value": null,
+    "count": 1
+  }
+}
